@@ -1,8 +1,8 @@
 export const business = {
   name: "Azeem Studio",
   location: "Faisalabad, Pakistan",
-  phoneDisplay: "+92 300 123 4567",
-  phoneWhatsApp: "923001234567",
+  phoneDisplay: "+92 300 6651949",
+  phoneWhatsApp: "923006651949",
   email: "hello@faisalabadmovies.com",
   facebook: "https://facebook.com",
   instagram: "https://instagram.com",
